@@ -82,8 +82,5 @@ for i, (img_path, actual_class) in enumerate(random_images):
 
     plt.close()
 
-# =========================
-# 完成訊息
-# =========================
 print("\nDemo 完成！")
 print("圖片已儲存到 demo 資料夾")
